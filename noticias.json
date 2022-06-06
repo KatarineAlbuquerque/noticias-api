@@ -1,98 +1,98 @@
 [
     {
         "id": "1",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img1.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img1.webp",
         "titulo": "Time do Náutico Faz Rifa",
         "descricao":"A equipe disputa a Série A3 do Brasileiro nesta temporada e receberá um investimento da CBF para arcar com as viagens durante a competição. Antes disso, contudo, precisa pagar as passagens das jogadoras para participar dos treinos no CT.",
         "link":"https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/05/19/jogadoras-do-nautico-vendem-rifas-para-pagar-preparacao-do-futebol-feminino-na-serie-a3-do-brasileiro.ghtml"
     },
     {
         "id": "2",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img2.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img2.webp",
         "titulo": "Momento Indescritível",
         "descricao":"A árbitra assistente Neuza Back será a primeira auxiliar brasileira da história a apitar em uma Copa do Mundo - na edição deste ano, em novembro, no Catar. Notícia recebida pela catarinense, de 37 anos, nesta quinta-feira, com um misto de expectativa, emoção e também de responsabilidade. Back comentou sobre a escolha ao Sportv, à noite, quando esteve escalada em Náutico x CSA, pela Série B.",
         "link":"https://ge.globo.com/pe/futebol/noticia/2022/05/20/neuza-back-comenta-ser-primeira-auxiliar-brasileira-em-copa-do-mundo-momento-indescritivel.ghtml"
     },
     {
         "id": "3",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img3.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img3.webp",
         "titulo": "Até 24 de Maio",
         "descricao":"A Federação Paulista de Futebol (FPF) prorrogou as inscrições para a Peneira Feminina Sub-17, organizada pela entidade. O cadastro terminaria nesta quarta, mas foi estendido até 24 de maio. Em Ribeirão Preto, o evento será realizado nos dias 28 e 29 de maio.",
         "link":"https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/noticia/2022/05/17/futebol-feminino-fpf-faz-peneira-em-ribeirao-preto-para-garotas-entre-12-e-17-anos.ghtml"
     },
     {
         "id": "4",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img4.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img4.webp",
         "titulo": "Cruzeiro Anuncia Diretora",
         "descricao":"Formada em Jornalismo pela PUC do Rio, Kin atua, desde 2015, com o futebol feminino. Esteve por dois anos no Departamento de Comunicação da CBF (2015 a 2017) e, desde então, atua no Grupo R9, como coordenadora de futebol feminino.",
         "link":"https://ge.globo.com/futebol/times/cruzeiro/noticia/2022/05/16/cruzeiro-anuncia-diretora-de-futebol-para-a-equipe-feminina.ghtml"
     },
     {
         "id": "5",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img5.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img5.webp",
         "titulo": "O Santos de Tatiele Silveira",
         "descricao":"O Santos atualmente ocupa a sexta colocação na tabela de classificação do Brasileiro feminino. Mas quer mais. De acordo com a treinadora Tatiele Silveira, o foco é trabalhar jogo a jogo, mas buscar ficar ao menos entre os quatro primeiros na primeira fase - os oito primeiros avançam à etapa seguinte. Para chegar nessa meta, a técnica também conta com um diferencial: Cristiane é a atual artilheira da competição com oito gols.",
         "link":"https://ge.globo.com/blogs/dona-do-campinho/post/2022/05/09/cristiane-dentro-da-area-e-trabalho-tatico-com-exemplos-femininos-o-santos-de-tatiele-silveira.ghtml"
     },
     {
         "id": "6",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img6.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img6.webp",
         "titulo": "Festa na Europa",
         "descricao":"Quatro grandes torcidas da Europa comemoraram neste fim de semana os títulos nacionais das suas respectivas ligas nacionais femininas. Depois da Juventus assegurar a taça do Italiano no sábado, neste domingo foi a vez do Chelsea levantar o Inglês, Wolfsburg garantir o Alemão e Benfica conquistar o Português.",
         "link":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/05/08/festa-na-europa-chelsea-wolfsburg-benfica-e-juventus-conquistam-suas-ligas-nacionais-femininas.ghtml"
     },
     {
         "id": "7",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img7.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img7.webp",
         "titulo": "Campeonato Capixaba Feminino",
         "descricao":"Os 9 times foram divididos em duas chaves. No A tem o atual hexacampeão Vila Nova-ES, São Geraldo, Serra, Aster e o estreante União de Piranema (que será representado pelo União EC). No B tem Prosperidade, Coronel Borges, Meninas do ES e Vilavelhense.",
         "link":"https://ge.globo.com/es/futebol/campeonato-capixaba-feminino/noticia/2022/06/03/campeonato-capixaba-feminino-2022-federacao-divulga-divisao-dos-grupos-e-define-data-de-estreia.ghtml"
     },
     {
         "id": "8",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img8.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img8.webp",
         "titulo": "Técnico da seleção feminina sub-20",
         "descricao":"Recém-campeã do Sul-Americano Feminino Sub-20, a seleção brasileira tem um grande desafio em agosto: buscar o título inédito da Copa do Mundo da categoria, que será na Costa Rica. Neste mês, o Brasil disputará dois jogos durante a Data FIFA para realizar testes antes da convocação final para o Mundial. Para observar possíveis candidatas, o técnico Jonas Urias viu de perto a vitória do Flamengo sobre o São Paulo, na partida de ida da semifinal do Campeonato Brasileiro Sub-20.",
         "link":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/06/02/tecnico-da-selecao-feminina-sub-20-acompanha-semifinal-do-brasileiro-da-categoria-na-gavea.ghtml"
     },
     {
         "id": "9",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img9.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img9.webp",
         "titulo": "Conheça o Time",
         "descricao":"A retomada da base do futebol feminino faz parte das mudanças que o Botafogo vem passando desde que virou SAF e John Textor comprou 90% das ações do clube. A necessidade de uma equipe feminina de base é requisito da CBF para os clubes que estão na primeira divisão do profissional masculino. Das 26 atletas que compõem o grupo, oito já treinavam com as profissionais. Todas as outras (18, no total) foram contratadas especialmente para a competição.",
         "link":"https://ge.globo.com/futebol/times/botafogo/noticia/2022/05/04/botafogo-remonta-base-feminina-para-brasileirao-sub-20-um-ano-apos-encerrar-atividades-conheca-o-time.ghtml"
     },
     {
         "id": "10",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img10.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img10.webp",
         "titulo": "Brasileiro Feminino Sub-20",
         "descricao":"Haja coração para os torcedores de Grêmio e Internacional! Em menos de sete dias, os rivais se enfrentarão três vezes, duas pela semifinal do Brasileiro Feminino Sub-20 e outra pelo Brasileirão A1.",
         "link":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/06/02/brasileiro-feminino-sub-20-artilheiras-de-gremio-e-internacional-projetam-classico-na-semifinal.ghtml"
     },
     {
         "id": "11",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img11.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img11.webp",
         "titulo": "Melhor defesa x melhor ataque",
         "descricao":"Melhor defesa x melhor ataque: Flamengo e São Paulo duelam na semifinal do Brasileiro Feminino Sub-20.",
         "link":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/06/02/melhor-defesa-x-melhor-ataque-flamengo-e-sao-paulo-duelam-na-semifinal-do-brasileiro-feminino-sub-20.ghtml"
     },
     {
         "id": "12",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img12.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img12.webp",
         "titulo": "Andressa Alves Mira Retorno à Seleção",
         "descricao":"Um vice-campeonato italiano que rendeu a inédita classificação para a Liga dos Campeões Feminina, e outro vice, na Copa da Itália, totalizando seis gols e oito assistências nas duas competições. No fim, a eleição como melhor meio-campista da Série A. Assim se resume a temporada de Andressa Alves na Roma.",
         "link":"https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/noticia/2022/05/31/andressa-alves-mira-retorno-a-selecao-apos-temporada-de-destaque-na-roma-sei-que-vou-poder-contribuir.ghtml"
     },
     {
         "id": "13",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img13.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img13.webp",
         "titulo": "Brasileiro Feminino Sub-20",
         "descricao":"Estão definidos os quatro times que vão para as semifinais do Brasileiro Feminino Sub-20: São Paulo, Grêmio, Internacional e Flamengo.",
         "link":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/05/27/brasileiro-feminino-sub-20-sao-paulo-gremio-internacional-e-flamengo-avancam-as-semifinais.ghtml"
     },
     {
         "id": "14",
-        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img14.png",
+        "imagem":"https://github.com/KatarineAlbuquerque/noticias-api/tree/main/imagens/img14.webp",
         "titulo": "Internacional Derrota o Flamengo",
         "descricao":"Na briga pelo topo do Grupo H do Brasileiro Feminino Sub-20, o Internacional superou o Flamengo por 1 a 0 e se classificou para as semifinais da competição. A partida, válida pela segunda rodada da segunda fase.",
         "link":"https://ge.globo.com/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/05/25/internacional-derrota-o-flamengo-e-garante-vaga-na-semifinal-do-brasileiro-feminino-sub-20.ghtml"
